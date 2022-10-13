@@ -1,3 +1,3 @@
-# Hazardous-or-Non-Hazardous-Asteriod-Prediction
+# Hazardous-Asteriod-Prediction
 
 In this project, I applied different machine learning methods namely, Naive bayes, Logistic Regression, Random Forest, decision tree, knearest neighbours, Support Vector Machine(SVM) and Deep neural networks – for identifying potential hazardous and non-hazardous asteroids and features responsible for claiming an asteroid to be hazardous.so far as, asteroids are concerned, there are many asteroids called near-earth asteroids, but all are not hazardous. So, our target in this paper is to identify those hazardous asteroids and classify them with non-hazardous types. For this, we choose many machine learning models
